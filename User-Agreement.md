@@ -147,10 +147,11 @@
 
 3.  本协议的最终解释权归本应用开发者所有。
 
-感谢您选择并使用 ClipMemo，我们将持续优化服务，为您提供更优质的使用体验！
-
 ## 十五、特殊条款
 
 1.  App Store：本应用通过 Apple App Store 独家分发，您使用本应用，即视为您已充分阅读并同意遵守 Apple 官方的应用商店条款和条件（Apple App Store Terms and Conditions）。
 
 2.  Apple条款优先：若本用户协议的条款与 Apple App Store 的条款和条件之间存在冲突、不一致，Apple 官方的条款优先。
+
+#
+感谢您选择并使用 ClipMemo，我们将持续优化服务，为您提供更优质的使用体验！
