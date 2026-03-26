@@ -53,15 +53,11 @@ As a user, you have the following rights:
 - The right to uninstall the app and delete all data at any time
 - The right to ask questions and make suggestions regarding this privacy policy
 
-## 9. Third-Party Services
-This app **does not integrate any third-party SDKs, advertisements, statistics, tracking, analytics, or push services**.
-We will not share, disclose, or provide your data to any third parties.
-
-## 10. Updates to This Privacy Policy
+## 9. Updates to This Privacy Policy
 We may occasionally revise this Privacy Policy due to feature updates. The "Last updated" date will be updated upon revision. Material changes will be prompted within the app.
 Your continued use of ClipMemo constitutes your acceptance of the updated policy.
 
-## 11. Contact Us
+## 10. Contact Us
 If you have any questions about this privacy policy, please feel free to contact us at:
 
 - Email: rinkakumada@foxmail.com
